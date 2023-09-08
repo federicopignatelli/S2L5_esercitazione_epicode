@@ -1,0 +1,165 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(241, 241, 241);
+}
+
+.backwhite {
+    background-color: #fff;
+}
+
+.imgtext {
+    font-size: 1.2em;
+}
+
+.shopcategories {
+    color: rgb(12, 110, 117);
+    font-weight: 600;
+    font-size: 0.9em;
+    display: inline;
+}
+
+.space {
+    padding: 18px;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.logo {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(54, 62, 80);
+}
+
+.logo img {
+    height: 60%;
+    margin: 1.5em
+}
+
+.menu {
+    background-color: rgb(89, 102, 133);
+    width: 100%;
+}
+
+.menu li {
+    display: inline-block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 2em;
+    color: #fff;
+}
+
+.container {
+    width: 96%;
+    margin: 2% 2%
+}
+
+.orangebanner {
+    background-color: rgb(253, 119, 57);
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+.orangebanner p {
+    color: #fff;
+    font-size: 1em;
+    padding: 0.5em;
+}
+
+.banner {
+    background-image: url(../images/bg-image.png);
+    background-size: 100%;
+    background-position: top;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 2em;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 4%;
+    padding-bottom: 1%;
+}
+
+.banner h2 {
+    font-size: 1.4em;
+    font-weight: 700;
+    color: #fff;
+    padding: 2%;
+    padding-bottom: 4%;
+    padding-top: 1%;
+}
+
+.cards {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.img {
+    width: 22%;
+    height: 40%;
+    display: inline-block;
+    border: 0px solid #fff;
+    padding: 1%;
+    align-items: center;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    border: 0px solid #fff;
+    border-radius: 30px;
+}
+
+#small {
+    width: 80%;
+}
+
+/* non sono riuscito a inserire bene le immagini :((((((((( */
+
+.vr img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.cassa img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: rgb(89, 102, 133);
+    width: 100%;
+    text-align: center;
+    height: 40px;
+
+}
+
+.footer a {
+    color: #fff;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+
+.footer1 {
+    background-color: rgb(54, 62, 80);
+    width: 100%;
+    text-align: center;
+}
+
+.footer1 img {
+    height: 70px;
+    margin: 2.5% auto;
+}
+
+
+
+/*background-image: url(img/banner.jpg);
+    background-size: 120%;
+    background-position: center;
+    padding: 15% 10%;
+    text-align: center;
+*/
